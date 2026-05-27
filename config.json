@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdncrypt",
+        "uuid": 22007774,
+        "checksum": "7bwcyt"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
